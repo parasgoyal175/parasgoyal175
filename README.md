@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Goyal</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-- 🧑‍💻I’m currently studying in 3rd year **Projects on MERN projects !!**
+- 🧑‍💻I’m currently studying in Final year **Projects on MERN projects !!**
 
 - 📫 How to reach me **parasgoyal175@gmail.com**
 
